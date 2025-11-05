@@ -1,0 +1,43 @@
+Job Title: Machine Learning Engineer (Fresher)
+Location: Gurgaon / Remote
+Company: Insight AI Solutions Pvt. Ltd.
+
+📌 Responsibilities:
+Build and deploy machine learning models for classification, regression, and anomaly detection use-cases.
+
+Perform data preprocessing, feature extraction, and feature selection for structured and semi-structured data.
+
+Develop ensemble models (e.g. Voting Classifier, RandomForest, XGBoost) to enhance model performance and stability.
+
+Design and optimize ML pipelines for phishing detection, career recommendation, and receipt processing systems.
+
+Evaluate models using advanced metrics such as ROC AUC, Precision-Recall Curve, F1 Score, and confusion matrix.
+
+Collaborate with AI product teams to integrate models with web applications and APIs.
+
+📌 Required Skills:
+Proficiency in Python with experience in Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn.
+
+Strong knowledge of Machine Learning algorithms: Decision Trees, Random Forest, SVM, XGBoost.
+
+Experience in Data Preprocessing, Feature Engineering, and Model Evaluation techniques.
+
+Familiarity with Streamlit, OpenPyXL, and Cloud platforms (Google Cloud, AWS) is a plus.
+
+Working knowledge of SQL and basic web development (HTML/CSS, JavaScript) desirable.
+
+📌 Preferred Skills:
+Experience with Natural Language Processing (NLP) techniques and libraries (spaCy, Hugging Face).
+
+Exposure to time series analysis, anomaly detection, and model explainability frameworks (SHAP/LIME).
+
+Strong object-oriented programming fundamentals in Python.
+
+📌 Qualifications:
+B.Tech / B.E. in Computer Science, Data Science, or related discipline.
+
+Strong problem-solving and analytical skills with an interest in building AI-powered solutions.
+
+CTC: ₹5 LPA – ₹7 LPA
+Job Type: Full-time | Hybrid / Remote
+
